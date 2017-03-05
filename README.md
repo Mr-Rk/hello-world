@@ -1,2 +1,2 @@
 # hello-world
-This is my first project on HitHub
+This is my first project on GitHub
